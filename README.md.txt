@@ -1,24 +1,28 @@
-# Sales Data Analysis Project
+# 📊 Sales Data Analysis Project
 
-## Objective
+## 📌 Objective
 
 To analyze sales data and uncover key business insights across categories and regions.
 
-## Tools Used
+## 🛠 Tools Used
 
 * Microsoft Excel (Pivot Tables, Charts)
 
-## Dataset
+## 📂 Dataset
 
-Superstore Sales Dataset (Kaggle)
+Superstore Sales Dataset
 
-## Key Insights
+## 📈 Key Insights
 
 * Technology category generated the highest sales (~827K)
-* Office Supplies and Furniture contributed moderate sales
 * West region recorded the highest sales (~725K)
 * South region showed the lowest performance (~389K)
 
-## Conclusion
+## 📊 Visualizations
 
-This project demonstrates data analysis using Excel, including data summarization, visualization, and deriving actionable insights.
+![Category Analysis](Category.png)
+![Region Analysis](Region.png)
+
+## ✅ Conclusion
+
+This project demonstrates data analysis using Excel, including data summarization, visualization, and insight generation.
