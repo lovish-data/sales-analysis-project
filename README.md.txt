@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 
-To analyze sales data and uncover key business insights across categories and regions.
+Analyze sales data to uncover insights across categories and regions using Excel.
 
 ## 🛠 Tools Used
 
@@ -10,7 +10,7 @@ To analyze sales data and uncover key business insights across categories and re
 
 ## 📂 Dataset
 
-Superstore Sales Dataset
+Superstore Sales Dataset (Kaggle)
 
 ## 📈 Key Insights
 
@@ -25,4 +25,4 @@ Superstore Sales Dataset
 
 ## ✅ Conclusion
 
-This project demonstrates data analysis using Excel, including data summarization, visualization, and insight generation.
+This project demonstrates foundational data analysis skills including data summarization, visualization, and insight generation.
